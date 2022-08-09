@@ -11,7 +11,6 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
         <h1>Privacy Policy</h1>
         <p>Last updated: August 09, 2022</p>
         <p>
