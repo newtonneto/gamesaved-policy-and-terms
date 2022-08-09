@@ -5,11 +5,6 @@ import Footer from "@components/Footer";
 export default function Home() {
   return (
     <div className="container">
-      <Head>
-        <title>Next.js Starter!</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       <h1>Privacy Policy</h1>
       <p>Last updated: August 09, 2022</p>
       <p>
@@ -415,8 +410,6 @@ export default function Home() {
       <ul>
         <li>By email: newton.mgs@gmail.com</li>
       </ul>
-
-      <Footer />
     </div>
   );
 }
